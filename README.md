@@ -7,3 +7,5 @@ CMU MS-DAS Visualization Class, Spring 2025
 
 We will talk through this process in class, but basically everyone is going to clone this repo,
 edit a file, and push mods back to GitHub.
+
+:)
