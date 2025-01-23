@@ -7,7 +7,8 @@ def main():
     -Shivak Sadasivan
     -Ananya Agrawal
     -Linqi Zhang
-    """)
+    -Yaning Wu
+   """)
 
 if __name__ == "__main__":
     main()
