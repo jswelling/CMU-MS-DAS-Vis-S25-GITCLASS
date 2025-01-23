@@ -5,6 +5,7 @@ def main():
     Hello World! from:
     -Joel Welling
     -Ananya Agrawal
+    -Linqi Zhang
     """)
 
 if __name__ == "__main__":
