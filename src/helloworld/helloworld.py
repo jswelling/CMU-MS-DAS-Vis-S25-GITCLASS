@@ -4,7 +4,7 @@ def main():
     print("""
     Hello World! from:
     -Joel Welling
-    -Linqiz
+    -Shivak Sadasivan
     -Ananya Agrawal
     -Linqi Zhang
     """)
