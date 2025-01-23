@@ -4,6 +4,12 @@ def main():
     print("""
     Hello World! from:
     -Joel Welling
+    -Sahana KrishnaMurthy
+    -Erick Cohen
+    -Hyunseok Lee
+    -Javier Abollado
+    -Sashank Yalavarthy
+    -Akshay Gupta
     -Alekhya Vittalam
     -Kevin Love
     -Ananya Chembai
