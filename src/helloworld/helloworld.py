@@ -10,6 +10,12 @@ def main():
     -Javier Abollado
     -Sashank Yalavarthy
     -Akshay Gupta
+    -Alekhya Vittalam
+    -Kevin Love
+    -Ananya Chembai
+    -Aswathama Shnamugam Marimuthu
+    -Kirpa Kaur
+    -Chehak Arora
     """)
 
 if __name__ == "__main__":
