@@ -8,6 +8,11 @@ def main():
     -Andrew Normandin
     -Franco Valdés      
     -Joel Welling
+    -Aarin Amin
+    -Shivak Sadasivan
+    -Ananya Agrawal
+    -Linqi Zhang
+    -Yaning Wu
     -Sahana KrishnaMurthy
     -Erick Cohen
     -Hyunseok Lee
