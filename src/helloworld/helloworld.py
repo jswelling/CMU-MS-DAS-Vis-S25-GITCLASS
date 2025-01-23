@@ -6,6 +6,7 @@ def main():
     -Joel Welling
     -Alekhya Vittalam
     -Kevin Love
+    -Ananya Chembai
     """)
 
 if __name__ == "__main__":
