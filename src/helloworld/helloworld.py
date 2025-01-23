@@ -3,6 +3,10 @@
 def main():
     print("""
     Hello World! from:
+    -LeNwobi
+    -Amine
+    -Andrew Normandin
+    -Franco Valdés      
     -Joel Welling
     -Sahana KrishnaMurthy
     -Erick Cohen
