@@ -4,7 +4,7 @@ def main():
     print("""
     Hello World! from:
     -Joel Welling
-    -Aaditya Hari Nair
+    -Aaditya_Hari_Nair
     """)
 
 if __name__ == "__main__":
