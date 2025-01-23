@@ -4,6 +4,7 @@ def main():
     print("""
     Hello World! from:
     -Joel Welling
+    -Ananya Agrawal
     -Linqi Zhang
     """)
 
