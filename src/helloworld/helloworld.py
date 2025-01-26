@@ -25,6 +25,7 @@ def main():
     -Aswathama Shnamugam Marimuthu
     -Kirpa Kaur
     -Chehak Arora
+    -Bingcheng Wang
     """)
 
 if __name__ == "__main__":
