@@ -19,6 +19,7 @@ def main():
     -Javier Abollado
     -Sashank Yalavarthy
     -Akshay Gupta
+<<<<<<< Updated upstream
     -Alekhya Vittalam
     -Kevin Love
     -Ananya Chembai
@@ -27,6 +28,9 @@ def main():
     -Chehak Arora
     -Bingcheng Wang
     -Guantong Zhang
+=======
+    -Aaditya Hari Nair
+>>>>>>> Stashed changes
     """)
 
 if __name__ == "__main__":
