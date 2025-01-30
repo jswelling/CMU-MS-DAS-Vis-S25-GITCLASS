@@ -27,6 +27,7 @@ def main():
     -Chehak Arora
     -Bingcheng Wang
     -Guantong Zhang
+    -Guantong Z.
     -Junyuan Li
     """)
 
