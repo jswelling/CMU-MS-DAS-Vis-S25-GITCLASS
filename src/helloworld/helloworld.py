@@ -28,6 +28,7 @@ def main():
     -Bingcheng Wang
     -Guantong Zhang
     -Guantong Z.
+    -Junyuan Li
     """)
 
 if __name__ == "__main__":
