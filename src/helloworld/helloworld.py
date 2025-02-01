@@ -29,6 +29,10 @@ def main():
     -Bingcheng Wang
     -Guantong Zhang
     -Junyuan Li(need to be different from group_6)
+    -Aaditya Hari Nair
+    -Guantong Z.
+    -Junyuan Li
+    - Achintya Srikanth
     """)
 
 if __name__ == "__main__":
