@@ -5,6 +5,7 @@ def main():
     THIS BRANCH IS FOR THOSE WHO DID NOT COMPLETE THE EXERCISE IN CLASS
     Hello World! from:
     -LeNwobi
+    -Sophia Kurz
     -Amine
     -Andrew Normandin
     -Franco Valdés      
