@@ -33,6 +33,7 @@ def main():
     -Guantong Z.
     -Junyuan Li
     - Achintya Srikanth
+    -Alex Mekovsky
     """)
 
 if __name__ == "__main__":
