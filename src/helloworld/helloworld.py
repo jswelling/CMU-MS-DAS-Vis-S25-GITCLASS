@@ -10,6 +10,7 @@ def main():
     -Aswathama Shnamugam Marimuthu
     -Kirpa Kaur
     -Chehak Arora
+    -Sanika Gokakkar
     """)
 
 if __name__ == "__main__":
