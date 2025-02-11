@@ -33,6 +33,7 @@ def main():
     -Aaditya Hari Nair
     -Guantong Z.
     -Junyuan Li
+    -Sanika Gokakkar
     - Achintya Srikanth
     -Alex Mekovsky
     """)
