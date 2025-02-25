@@ -2,8 +2,10 @@
 
 def main():
     print("""
+    THIS BRANCH IS FOR THOSE WHO DID NOT COMPLETE THE EXERCISE IN CLASS
     Hello World! from:
     -LeNwobi
+    -Sophia Kurz
     -Amine
     -Andrew Normandin
     -Franco Valdés      
@@ -27,10 +29,13 @@ def main():
     -Chehak Arora
     -Bingcheng Wang
     -Guantong Zhang
-    -Aaditya Hari Nair
+    -Junyuan Li(need to be different from group_6)
     -Guantong Z.
     -Junyuan Li
-
+    -Sanika Gokakkar
+    - Achintya Srikanth
+    -Alex Mekovsky
+    -Aaditya Hari Nair
     """)
 
 if __name__ == "__main__":
